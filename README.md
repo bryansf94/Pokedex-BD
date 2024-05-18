@@ -1,4 +1,4 @@
-![Descrição do Projeto]([url_da_imagem](https://github.com/bryansf94/Pokedex-BD/blob/main/capa.png))
+![Descrição do Projeto](https://github.com/bryansf94/Pokedex-BD/blob/main/capa.png))
 # Projeto Pokedex BD 
 
 ## Descrição do Projeto

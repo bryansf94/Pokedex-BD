@@ -1,5 +1,3 @@
-([URL_da_Imagem](https://github.com/bryansf94/Pokedex-BD/blob/main/capa.png))
-
 
 # Projeto Pokedex BD 
 

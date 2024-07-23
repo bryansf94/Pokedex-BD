@@ -35,4 +35,4 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-Esperamos que este projeto sirva como uma ferramenta eficaz para o desenvolvimento de suas habilidades em banco de dados e para a realização de projetos educacionais e profissionais. Boa aprendizagem!
+Esperamos que este projeto sirva como uma ferramenta eficaz para o desenvolvimento de suas habilidades em banco de dados e para a realização de projetos educacionais e profissionais. Boa aprendizagem.
